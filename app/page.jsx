@@ -18,10 +18,9 @@ export default function Home() {
 
   return (
     <>
-        <Header content={headerContent} img={bg} />
-        <Events/>
+      <Header content={headerContent} img={bg} />
+      <Events/>
       <Footer/>
-
     </>
   );
 }
