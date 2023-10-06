@@ -35,11 +35,9 @@ export default function Footer() {
         <h2>Connect with Us</h2> 
         <div className={styles.ftsoc}>
           <Link href="https://www.instagram.com/magesh__m/" target="_blank"><BsInstagram/><span>Instagram</span></Link>
-          <Link href="https://twitter.com/_Magesh_M" target="_blank"><FiTwitter/><span>Twitter</span></Link>
-          <Link href="https://www.linkedin.com/in/magesh-murugan-415289212" target="_blank"><FaLinkedinIn/><span>LinkedIn</span></Link>
           <Link href="https://api.whatsapp.com/send?phone=+919345480054&text=Hi Magesh" target="_blank"><FaWhatsapp/><span>Whatsapp</span></Link>
-          <Link href="mailto:mageshmurugant@gmail.com" target="_blank"><FiMail/><span>Email</span></Link>
-          <Link href="tel:+919345480054" target="_blank"><FaPhone/><span>Phone</span></Link>
+          <Link href="mailto:emerge2k24eee@gmail.com" target="_blank"><FiMail/><span>Email</span></Link>
+          <Link href="tel:+918124595576" target="_blank"><FaPhone/><span>Phone</span></Link>
         </div>
       </div>
     </div>

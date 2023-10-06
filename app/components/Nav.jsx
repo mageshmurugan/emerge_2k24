@@ -22,7 +22,7 @@ const Nav = () => {
           <div className={styles.navca}>
             <Link href="/">Home</Link>
             <Link href="/about">About</Link>
-            <Link href="/contact">Contact</Link>
+            <Link href="https://forms.gle/Bk7GtsVLp3V2onmK9">Register</Link>
           </div>
         </div>
       )}

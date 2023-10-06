@@ -27,7 +27,7 @@ const EventsCard= ({ content }) => {
         <p>{content.paragraph}</p>
         <div className={styles.EventButton}>
         <Link href={content.tel} target="_blank"><span>Contact</span></Link>
-        <Link href="/" target="_blank"><span>Join</span></Link>
+        <Link href={content.whatsapp} target="_blank"><span>Join</span></Link>
 
           
         </div>
