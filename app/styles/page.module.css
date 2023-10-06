@@ -265,6 +265,29 @@
   margin: 3vh auto;
 }
 
+.EventButton{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 30px;
+}
+
+.EventButton a{
+  padding: 20px;
+  background-color: #000000;
+  color: #E9AA30;
+  border-radius: 5vh;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-family: Neue;
+  font-size: 20px;
+  /* color: #000; */
+  border: 2px solid #E9AA30;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .body1_text h1 {
   font-family: Arsenica;
   font-size: 40px;
