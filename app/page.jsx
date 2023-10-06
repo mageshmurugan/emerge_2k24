@@ -1,10 +1,7 @@
 import styles from "./styles/page.module.css";
-// import Homediv from "./components/Homediv";
-// import { headerContent } from "./Components/Contents";
 import Header from "./components/Header";
 import Events from "./components/Events";
 import Link from "next/link";
-
 import Footer from "./components/Footer";
 import bg from "./styles/header1.jpg";
 
