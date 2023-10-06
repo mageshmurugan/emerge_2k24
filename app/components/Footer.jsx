@@ -44,8 +44,8 @@ export default function Footer() {
     <div className={styles.ft}>
       <div className={styles.tag}>
         <Link href="/">Home</Link><span>|</span>
-        <Link href="/about">About</Link><span>|</span>
-        <Link href="/contact">Contact</Link>
+        <Link href="#start">Events</Link><span>|</span>
+        <Link href="/">Register</Link>
       </div>
     </div>
   </section>

@@ -21,7 +21,7 @@ const Nav = () => {
             </div>
           <div className={styles.navca}>
             <Link href="/">Home</Link>
-            <Link href="/about">About</Link>
+            <Link href="#start">Events</Link>
             <Link href="https://forms.gle/Bk7GtsVLp3V2onmK9">Register</Link>
           </div>
         </div>

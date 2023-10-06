@@ -4,7 +4,7 @@ import EventsCard from "./EventsCard";
 export default function Events() {
   return (
     <>
-    <section className={styles.Events}>
+    <section className={styles.Events} id="start">
         <h1>Our Events</h1>
         {Content.map((content, key) => {
           return <EventsCard key={key} content={content}  />;
