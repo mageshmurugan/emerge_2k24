@@ -20,8 +20,8 @@ const Nav = () => {
                 <RxCross2 onClick={() => setOpen(false)} className={styles.navb} />
             </div>
           <div className={styles.navca}>
-            <Link href="/">Home</Link>
-            <Link href="#start">Events</Link>
+            <Link href="#start">All Events</Link>
+            <Link href="https://instagram.com/srmvec_emerge_2k24?igshid=MzRlODBiNWFlZA==">Instagram</Link>
             <Link href="https://forms.gle/Bk7GtsVLp3V2onmK9">Register</Link>
           </div>
         </div>

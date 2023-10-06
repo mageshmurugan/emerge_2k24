@@ -43,9 +43,10 @@ export default function Footer() {
     </div>
     <div className={styles.ft}>
       <div className={styles.tag}>
-        <Link href="/">Home</Link><span>|</span>
-        <Link href="#start">Events</Link><span>|</span>
-        <Link href="/">Register</Link>
+      <Link href="https://instagram.com/srmvec_emerge_2k24?igshid=MzRlODBiNWFlZA==">Instagram</Link><span>|</span>
+        <Link href="#start">All Events</Link><span>|</span>
+        <Link href="https://forms.gle/Bk7GtsVLp3V2onmK9">Register</Link>
+
       </div>
     </div>
   </section>
