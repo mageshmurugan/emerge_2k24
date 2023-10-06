@@ -34,8 +34,8 @@ export default function Footer() {
       <div className={styles.ftc2}>
         <h2>Connect with Us</h2> 
         <div className={styles.ftsoc}>
-          <Link href="https://www.instagram.com/magesh__m/" target="_blank"><BsInstagram/><span>Instagram</span></Link>
-          <Link href="https://api.whatsapp.com/send?phone=+919345480054&text=Hi Magesh" target="_blank"><FaWhatsapp/><span>Whatsapp</span></Link>
+          <Link href="https://instagram.com/srmvec_emerge_2k24?igshid=MzRlODBiNWFlZA==" target="_blank"><BsInstagram/><span>Instagram</span></Link>
+          {/* <Link href="https://api.whatsapp.com/send?phone=+919345480054&text=Hi Magesh" target="_blank"><FaWhatsapp/><span>Whatsapp</span></Link> */}
           <Link href="mailto:emerge2k24eee@gmail.com" target="_blank"><FiMail/><span>Email</span></Link>
           <Link href="tel:+918124595576" target="_blank"><FaPhone/><span>Phone</span></Link>
         </div>
