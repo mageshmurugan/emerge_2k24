@@ -42,7 +42,7 @@ export const Content = [
     {
       heading: "Project Expo",
       paragraph:
-        "Join us at Project Expo, where innovation meets inspiration! Discover cutting-edge projects, network with industry leaders, and witness the future unfold. Don't miss this opportunity to explore groundbreaking ideas and collaborate with the brightest minds in the field. Get ready to be inspired and amazed at Project Expo!",
+        "Join us at Project Expo , where innovation meets inspiration! Discover cutting-edge projects, network with industry leaders, and witness the future unfold. Don't miss this opportunity to explore groundbreaking ideas and collaborate with the brightest minds in the field. Get ready to be inspired and amazed at Project Expo!",
       img: img5,
       tel:"tel:+917339275059",
       whatsapp:"https://chat.whatsapp.com/J38xgU4CKLW97mzJnGBI6p",
