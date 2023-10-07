@@ -30,7 +30,7 @@ export const Content = [
     {
       heading: "Paper Presentation",
       paragraph:
-        "Paper presentation is an individual competition where each participant is required to create a paper (essay) in English about a given theme and present it with a presentation (PowerPoint) in front of the judges. The presentation must be interesting, creative and deliver the participants’ ideas within the time limit determined.",
+        "Paper presentation is an solo or team of two members competition where each participant is required to create a paper (essay) in English about a given theme and present it with a presentation (PowerPoint) in front of the judges. The presentation must be interesting, creative and deliver the participants’ ideas within the time limit determined.",
       img: img3,
       tel:"tel:+916380358580",
       whatsapp:"https://chat.whatsapp.com/Ehyh0vsEibB00i5tlT0WfL",
