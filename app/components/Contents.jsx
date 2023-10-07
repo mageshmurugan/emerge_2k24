@@ -30,7 +30,7 @@ export const Content = [
     {
       heading: "Paper Presentation",
       paragraph:
-        "Three rounds will be there .Winners of each round will be promoted to next round.First round will be general quiz where selection will be based on marks whereas the other two rounds selection will be based on the time the participants taketo complete the given task successfully.",
+        "Paper presentation is an individual competition where each participant is required to create a paper (essay) in English about a given theme and present it with a presentation (PowerPoint) in front of the judges. The presentation must be interesting, creative and deliver the participants’ ideas within the time limit determined.",
       img: img3,
       tel:"tel:+916380358580",
       whatsapp:"https://chat.whatsapp.com/Ehyh0vsEibB00i5tlT0WfL",
