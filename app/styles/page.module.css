@@ -314,8 +314,8 @@
 
 .body1_image {
   position: relative;
-  height: 40vh;
-  width: 75%;
+  /* height: 40vh;
+  width: 75%; */
   margin: 3vh auto;
 }
 

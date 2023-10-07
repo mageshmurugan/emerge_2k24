@@ -8,7 +8,8 @@ const EventsCard= ({ content }) => {
   return (
     <div className={styles.body1}>
       
-      <div className={styles.body1_image}>
+      <div className={styles.body1_image} style={{height: content.height,
+  width:content.height}}>
         <Image
           src={content.img}
           placeholder="blur"
@@ -16,7 +17,7 @@ const EventsCard= ({ content }) => {
           // sizes="100%"
           alt="picture"
           style={{
-            objectFit: "cover",
+            objectFit: "contain",
             objectPosition: "center",
             borderRadius: "15px",
           }}
