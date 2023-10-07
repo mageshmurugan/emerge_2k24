@@ -6,6 +6,7 @@ import logo from "../styles/logo1.png";
 import {BsInstagram} from "react-icons/bs";
 import {FiTwitter,FiMail} from "react-icons/fi";
 import {FaLinkedinIn,FaWhatsapp,FaPhone} from "react-icons/fa";
+import {IoIosCall} from "react-icons/io";
 
 export default function Footer() {
   return (
@@ -37,7 +38,7 @@ export default function Footer() {
           <Link href="https://instagram.com/srmvec_emerge_2k24?igshid=MzRlODBiNWFlZA==" target="_blank"><BsInstagram/><span>Instagram</span></Link>
           {/* <Link href="https://api.whatsapp.com/send?phone=+919345480054&text=Hi Magesh" target="_blank"><FaWhatsapp/><span>Whatsapp</span></Link> */}
           <Link href="mailto:emerge2k24eee@gmail.com" target="_blank"><FiMail/><span>Email</span></Link>
-          <Link href="tel:+918124595576" target="_blank"><FaPhone/><span>Phone</span></Link>
+          <Link href="tel:+918124595576" target="_blank"><IoIosCall/><span>Phone</span></Link>
         </div>
       </div>
     </div>
