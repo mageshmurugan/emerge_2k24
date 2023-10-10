@@ -353,7 +353,9 @@
     /* padding-left: 35px; */
   }
   .body1_image {
-    width: 40%;
-    height: 60vh;
+    /* width: 40%;
+    height: 60vh; */
+    width: 60%;
+    height: 80vh;
   }
 }

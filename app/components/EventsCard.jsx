@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "../styles/page.module.css";
 import Link from "next/link"
+import {FaWhatsapp} from "react-icons/fa";
 
 
 const EventsCard= ({ content }) => {
@@ -28,7 +29,7 @@ const EventsCard= ({ content }) => {
         <p>{content.paragraph}</p>
         <div className={styles.EventButton}>
         <Link href={content.tel} target="_blank"><span>Contact</span></Link>
-        <Link href={content.whatsapp} target="_blank"><span>Join</span></Link>
+        <Link href={content.whatsapp} target="_blank"><FaWhatsapp/> <span>Join</span></Link>
 
           
         </div>
