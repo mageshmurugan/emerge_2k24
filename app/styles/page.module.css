@@ -161,14 +161,14 @@
   flex-direction: column;
   background-color: #000;
   color: #E9AA30;
-  font-family: Arsenica;
+  font-family: Neue;
   padding: 15px 0;
   z-index: 2;
 }
 
 .ft a {
   color: #E9AA30;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .tag span {
@@ -212,7 +212,7 @@
 .ftsoc a {
   padding: 3px 0;
   color: #E9AA30;
-  font-family: Arsenica;
+  font-family: Neue;
 }
 
 .ftsoc span {
@@ -358,4 +358,8 @@
     width: 60%;
     height: 80vh;
   }
+}
+
+.whatsapp{
+  color: #59CE72;
 }
