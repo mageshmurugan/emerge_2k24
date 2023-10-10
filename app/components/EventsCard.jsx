@@ -4,7 +4,6 @@ import styles from "../styles/page.module.css";
 import Link from "next/link"
 import {IoLogoWhatsapp} from "react-icons/io";
 
-
 const EventsCard= ({ content }) => {
   return (
     <div className={styles.body1}>

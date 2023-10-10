@@ -9,7 +9,7 @@ import bg from "./styles/header1.jpg";
 export default function Home() {
 
   const headerContent=(<div className={styles.center}>
-    <h1>Emerge <span className={styles.navno}>2</span>K<span className={styles.navno}>24</span></h1>
+    <h1>Emerge <span className={styles.navno}>2</span>K<span className={styles.navno}>23</span></h1>
     {/* <q>Wired for Innovation: Sparks of Tomorrow</q> */}
     <span className={styles.centerSpan}>14-10-2023</span>
     <q>Last Date of Registration : 13-10-2023</q>

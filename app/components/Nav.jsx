@@ -21,7 +21,7 @@ const Nav = () => {
             </div>
           <div className={styles.navca}>
             <Link href="#start">All Events</Link>
-            <Link href="https://instagram.com/srmvec_emerge_2k24?igshid=MzRlODBiNWFlZA==">Instagram</Link>
+            <Link href="https://instagram.com/srmvec_emerge2k23">Instagram</Link>
             <Link href="https://forms.gle/Bk7GtsVLp3V2onmK9">Register</Link>
           </div>
         </div>
