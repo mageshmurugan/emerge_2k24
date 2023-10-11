@@ -10,7 +10,7 @@ export const Content = [
       heading: "CircuitTrix",
       paragraph:
         "CircuitTrix Symposium is an exciting event focused on technology and innovation. It brings together tech enthusiasts, engineers, and creative minds to explore the latest developments in electronics and circuit design.",
-      img: img4,
+      img: img5,
       tel:"tel:+919080151914",
       whatsapp:"https://chat.whatsapp.com/IJEyUEUd9m6EfdwwUnjpQX",
       height:"40vh",
@@ -31,7 +31,7 @@ export const Content = [
       heading: "Paper Presentation",
       paragraph:
         "Paper presentation is an solo or team of two members competition where each participant is required to create a paper (essay) in English about a given theme and present it with a presentation (PowerPoint) in front of the judges. The presentation must be interesting, creative and deliver the participants’ ideas within the time limit determined.",
-      img: img3,
+      img: img4,
       tel:"tel:+916380358580",
       whatsapp:"https://chat.whatsapp.com/Ehyh0vsEibB00i5tlT0WfL",
       height:"40vh",
@@ -43,7 +43,7 @@ export const Content = [
       heading: "Project Expo",
       paragraph:
         "Join us at Project Expo , where innovation meets inspiration! Discover cutting-edge projects, network with industry leaders, and witness the future unfold. Don't miss this opportunity to explore groundbreaking ideas and collaborate with the brightest minds in the field. Get ready to be inspired and amazed at Project Expo!",
-      img: img5,
+      img: img3,
       tel:"tel:+917339275059",
       whatsapp:"https://chat.whatsapp.com/J38xgU4CKLW97mzJnGBI6p",
       height:"45vh",
